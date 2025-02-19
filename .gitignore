@@ -1,6 +1,7 @@
 .env
 .venv
 venv_algos/
+venv_algos_dell/
 
 
 # Byte-compiled / optimized / DLL files
